@@ -9,7 +9,7 @@ Steps:
  	java -jar ML-PST.jar
 6. The command will generate all the .xml files in the same folder
 7. Using infostudio or adminconsole or cq load all the documents in the new folder 
- 	
+ (known bug - quick fix: please rename the .pst file to discuss.pst) 	
  	
 ===========
 Todo: 
